@@ -6,7 +6,7 @@ function writeCards(names, holiday) {
   return messages
 }
 
-function countDown(number) {
+function countdown(number) {
   while (number > 0) {
     console.log(number)
     number--
