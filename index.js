@@ -7,6 +7,7 @@ function writeCards(names, holiday) {
 }
 
 function countDown(number) {
-  while (number  0) {
+  while (number > 0) {
+    
   }
 }
