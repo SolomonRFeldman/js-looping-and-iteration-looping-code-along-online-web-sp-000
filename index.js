@@ -5,3 +5,4 @@ function writeCards(names, holiday) {
   }
   return messages
 }
+
